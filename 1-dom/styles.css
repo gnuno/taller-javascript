@@ -1,0 +1,18 @@
+ul{
+    list-style: none;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.item {
+    padding: 5px 15px;
+    min-width: 150px;
+    margin: 5px 10px;
+    background-color: #eee;
+    border-radius: 5px;
+    box-shadow: 1px 2px 4px #33333345 ;
+}
