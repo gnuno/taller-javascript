@@ -49,6 +49,7 @@ div.card{
     text-align: center;
     padding: .6em 1.2em;
     margin: 0.6em .4em;
+    min-width: 185px;
 }
 
 div.card:hover{
