@@ -8,7 +8,7 @@ function main() {
     document.querySelector("p.visible").innerText = "Este parrafo se rellena al cargar JS"
 
     const main = document.querySelector("main")
-    main.innerHTML = "<h2>Titulo insertado desde JS</h2" + main.innerHTML
+    main.innerHTML = "<h2>Titulo insertado desde JS</h2>" + main.innerHTML
 
     document.querySelector("#showItems").addEventListener("click", () => {
         const element = document.createElement('div')
