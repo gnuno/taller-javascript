@@ -7,7 +7,7 @@ Repositorio para el taller introductorio de Javascript
     * [dom](/1-dom/)
     * [async](./2-async/): Ejercicio desarrollado en el taller
 - [Presentacion del Taller](./Presentacion_Taller_JavaScript.pdf)
-- Grabacion del Taller - **PROXIMAMENTE**
+- [Grabacion del Taller](https://www.youtube.com/watch?v=dANT66H01eY&ab_channel=GNUno)
 
 ## **Links de Interes**
 - [Comunidad de Informatica UNO](https://t.me/Informatica_UNO)
